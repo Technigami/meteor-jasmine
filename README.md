@@ -17,7 +17,7 @@ I have been using the naming convention projectName-space-daisy
 Set up the two symlinks then run meteor
 
     cd yourProject-space-daisy
-    ln -s /path/to/yourProject src/yourProject
+    ln -s /path/to/yourProject yourProject
     ln -s src/yourProject/.meteor .meteor
 
 Write some jasmine specs and put them in yourProject-space-daisy (or any folder
