@@ -9,7 +9,7 @@ usage
 -----
 
 clone this repo and rename it for the project you want to test.
-I have been using the naming convention yourProject-space-daisy
+I have been using the naming convention projectName-space-daisy
 
 cd into yourProject-space-daisy and set up the symlinks
 
