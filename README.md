@@ -8,7 +8,7 @@ It uses a lot of symlinks. not sure yet how I feel about that but it works.
 usage
 -----
 
-clone this repo and rename it for the project you want to test.
+clone this repo and name it for the project you want to test.
 I have been using the naming convention projectName-space-daisy
 
 cd into yourProject-space-daisy and set up the symlinks
