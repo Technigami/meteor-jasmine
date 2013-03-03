@@ -19,4 +19,4 @@ cd into yourProject-space-daisy and set up the symlinks
 
 put your jasmine specs in /specs and that should do it.
 meteor will run SpecRunner.html which will run all your specs in the
-context of the meteor app.
+context of the meteor app. Run meteor and check http://localhost:3000
