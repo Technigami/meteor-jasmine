@@ -11,12 +11,16 @@ usage
 clone this repo and name it for the project you want to test.
 I have been using the naming convention projectName-space-daisy
 
-cd into yourProject-space-daisy and set up the symlinks
+Set up the two symlinks then run meteor
 
     cd yourProject-space-daisy
-    ln -s path/to/yourProject src/yourProject
+    ln -s /path/to/yourProject src/yourProject
     ln -s src/yourProject/.meteor .meteor
 
-put your jasmine specs in /specs and that should do it.
-meteor will run SpecRunner.html which will run all your specs in the
-context of the meteor app. Run meteor and check localhost:3000
+Write some jasmine specs and put them in yourProject-space-daisy (or any folder
+inside it other than lib) then run meteor.
+
+    meteor
+
+meteor will serve up main.SpecRunner.html on localhost:3000 which will run all 
+your specs in the context of the meteor app. 
