@@ -2,8 +2,8 @@ space-daisy
 ===========
 
 Jasmine standalone for Meteor apps. 
-This is my first stab at putting something together for Jasmine with Meteor
-it uses a lot of symlinks. not sure yet how I feel about that but it works.
+This is my first stab at putting something together for Jasmine with Meteor.
+It uses a lot of symlinks. not sure yet how I feel about that but it works.
 
 usage
 -----
