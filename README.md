@@ -14,8 +14,8 @@ I have been using the naming convention yourProject-space-daisy
 cd into yourProject-space-daisy and set up the symlinks
 
     cd yourProject-space-daisy
-    ln -s /path/to/yourProject src/yourProject
-    ln -s /src/yourProject/.meteor .meteor
+    ln -s path/to/yourProject src/yourProject
+    ln -s src/yourProject/.meteor .meteor
 
 put your jasmine specs in /specs and that should do it.
 meteor will run SpecRunner.html which will run all your specs in the
