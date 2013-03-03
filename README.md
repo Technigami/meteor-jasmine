@@ -18,7 +18,7 @@ Set up the two symlinks then run meteor
 
     cd yourProject-space-daisy
     ln -s /path/to/yourProject yourProject
-    ln -s src/yourProject/.meteor .meteor
+    ln -s yourProject/.meteor .meteor
 
 Write some jasmine specs and put them in yourProject-space-daisy (or any folder
 inside it other than lib) then run meteor.
