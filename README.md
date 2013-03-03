@@ -11,7 +11,7 @@ or situations where this is less than universally fantastic.
 usage
 -----
 
-clone this repo and name it for the project you want to test.
+Clone this repo and name it for the project you want to test.
 I have been using the naming convention projectName-space-daisy
 
 Set up the two symlinks then run meteor
