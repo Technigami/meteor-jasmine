@@ -1,5 +1,5 @@
-space-daisy
-===========
+Meteor Jasmine
+==============
 
 Jasmine standalone for Meteor apps. 
 This is my first stab at putting something together for Jasmine with Meteor.
@@ -8,8 +8,8 @@ It uses a lot of symlinks. not sure yet how I feel about that but it works.
 This is a very early attempt at making this work. Please bring up any issues
 or situations where this is less than universally fantastic.
 
-usage
------
+usage (out of date instructions!)
+---------------------------------
 
 Clone this repo and name it for the project you want to test.
 I have been using the naming convention projectName-space-daisy
